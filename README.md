@@ -2,7 +2,7 @@
 
 # Date: 04/11/2025
 
-# Register no.: 212223060014
+# Register no.: 212223220060
 
 ## Aim: To perform the Exploration of Prompting Techniques for Video Generation
 
